@@ -1,7 +1,7 @@
-### Hi there 👋
+<div align='center'>
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SangHee's%20GitHub&fontSize=70&animation=scaleIn)
 Here are some ideas to get you started:
-
+### Hi there 👋
 ### Technology Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"/>
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
