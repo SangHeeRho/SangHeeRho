@@ -1,4 +1,4 @@
-<div align='center'>
+
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SangHee's%20GitHub&fontSize=70&animation=scaleIn)
 Here are some ideas to get you started:
 ### Hi there 👋
