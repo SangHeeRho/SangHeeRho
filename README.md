@@ -4,7 +4,7 @@
 ### Hi there 👋
 ### Technology Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
