@@ -6,6 +6,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on small projects of my own  - related to gmoney(Gyeonggi local Money).
 - 🌱 I’m currently learning dataScience in Hongik Univ.
 </div>
