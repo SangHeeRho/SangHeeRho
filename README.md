@@ -8,6 +8,6 @@
 
 - 🔭 I’m currently working on
 1. a mini project of my own  - related to gmoney(Gyeonggi local Money).
-2. A Group project  - scalp image classification
+2. a group project  - scalp image classification
 - 🌱 I’m currently learning dataScience in Hongik Univ.
 </div>
